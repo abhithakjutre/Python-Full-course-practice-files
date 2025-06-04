@@ -80,17 +80,14 @@ Includes shortcuts, syntax, and extra Python tricks not in the course!
 🚀 Make this a solid foundation for Web Dev, AI & Automation
 
 📬 Let’s Connect
-🔗 GitHub: github.com/Abhi-Coder
+🔗 GitHub: https://github.com/abhithakjutre/abhithakjutre
 
-🧠 Portfolio: abhi-coder.dev
+🧠 Portfolio: https://abhithakur-portfolio.netlify.app
 
-💌 Email: your.email@example.com
+💌 Email: abhishekthakur202398@gmail.com
 
 🧠 “Practice makes Python perfect. Build every day.”
 
-yaml
-Copy
-Edit
 
 ---
 
